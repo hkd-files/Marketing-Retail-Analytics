@@ -1,0 +1,1248 @@
+Rule,Support,Confidence,Lift,Item1,Item2,Item3,Consequent
+rule59,0.055,0.649,1.791,eggs, ice cream, pasta,paper towels
+rule58,0.055,0.643,1.731,paper towels, eggs, ice cream,pasta
+rule21,0.051,0.674,1.726,bagels, cereals, sandwich bags,cheeses
+rule3,0.050,0.640,1.700,yogurt, toilet paper, aluminum foil,juice
+rule18,0.051,0.630,1.678,yogurt, poultry, aluminum foil,mixes
+rule20,0.051,0.611,1.660,cheeses, bagels, cereals,sandwich bags
+rule52,0.054,0.642,1.651,spaghetti sauce, poultry, laundry detergent,dinner rolls
+rule40,0.052,0.641,1.649,spaghetti sauce, poultry, ice cream,dinner rolls
+rule7,0.050,0.620,1.645,yogurt, poultry, aluminum foil,juice
+rule43,0.052,0.686,1.628,dinner rolls, spaghetti sauce, ice cream,poultry
+rule49,0.052,0.634,1.627,paper towels, dinner rolls, pasta,eggs
+rule24,0.051,0.630,1.621,spaghetti sauce, poultry, cereals,dinner rolls
+rule50,0.052,0.602,1.621,paper towels, eggs, dinner rolls,pasta
+rule11,0.050,0.613,1.616,yogurt, cheeses, cereals,coffee/tea
+rule57,0.055,0.630,1.616,paper towels, ice cream, pasta,eggs
+rule44,0.052,0.628,1.614,spaghetti sauce, poultry, juice,dinner rolls
+rule35,0.052,0.628,1.610,dinner rolls, poultry, soda,eggs
+rule54,0.054,0.598,1.603,dinner rolls, poultry, laundry detergent,spaghetti sauce
+rule29,0.051,0.604,1.589,poultry, laundry detergent, cereals,milk
+rule42,0.052,0.590,1.581,dinner rolls, poultry, ice cream,spaghetti sauce
+rule45,0.052,0.584,1.566,dinner rolls, poultry, juice,spaghetti sauce
+rule56,0.055,0.624,1.565,paper towels, eggs, pasta,ice cream
+rule51,0.052,0.567,1.565,eggs, dinner rolls, pasta,paper towels
+rule12,0.050,0.588,1.564,dishwashing liquid/detergent, poultry, laundry detergent,mixes
+rule22,0.051,0.617,1.558,cheeses, bagels, sandwich bags,cereals
+rule55,0.054,0.656,1.556,dinner rolls, spaghetti sauce, laundry detergent,poultry
+rule1,0.050,0.594,1.544,yogurt, toilet paper, juice,aluminum foil
+rule8,0.050,0.588,1.528,cheeses, cereals, coffee/tea,yogurt
+rule9,0.050,0.594,1.520,yogurt, cereals, coffee/tea,cheeses
+rule28,0.051,0.574,1.518,poultry, milk, cereals,laundry detergent
+rule27,0.051,0.637,1.512,dinner rolls, spaghetti sauce, cereals,poultry
+rule23,0.051,0.580,1.505,cheeses, cereals, sandwich bags,bagels
+rule48,0.052,0.584,1.502,paper towels, eggs, pasta,dinner rolls
+rule870,0.083,0.563,1.498,sandwich loaves, lunch meat,,individual meals
+rule0,0.050,0.576,1.497,toilet paper, juice, aluminum foil,yogurt
+rule1243,0.099,0.579,1.490,spaghetti sauce, poultry,,dinner rolls
+rule37,0.052,0.578,1.487,eggs, pasta, soda,dinner rolls
+rule525,0.078,0.560,1.486,shampoo, spaghetti sauce,,juice
+rule14,0.050,0.576,1.484,poultry, laundry detergent, mixes,dishwashing liquid/detergent
+rule26,0.051,0.552,1.480,dinner rolls, poultry, cereals,spaghetti sauce
+rule17,0.051,0.569,1.479,yogurt, poultry, mixes,aluminum foil
+rule39,0.052,0.546,1.471,eggs, dinner rolls, soda,pasta
+rule909,0.083,0.514,1.470,cheeses, ketchup,,sandwich loaves
+rule10,0.050,0.582,1.469,yogurt, cheeses, coffee/tea,cereals
+rule38,0.052,0.573,1.469,dinner rolls, pasta, soda,eggs
+rule5,0.050,0.564,1.468,yogurt, poultry, juice,aluminum foil
+rule1090,0.086,0.547,1.467,dinner rolls, juice,,spaghetti sauce
+rule16,0.051,0.563,1.464,poultry, mixes, aluminum foil,yogurt
+rule1088,0.086,0.551,1.462,spaghetti sauce, aluminum foil,,juice
+rule217,0.073,0.542,1.461,sandwich loaves, milk,,ketchup
+rule33,0.052,0.567,1.459,eggs, poultry, soda,dinner rolls
+rule1106,0.087,0.547,1.452,yogurt, shampoo,,juice
+rule32,0.052,0.567,1.452,eggs, dinner rolls, poultry,soda
+rule36,0.052,0.567,1.452,eggs, dinner rolls, pasta,soda
+rule691,0.080,0.542,1.452,mixes, juice,,spaghetti sauce
+rule289,0.075,0.538,1.449,hand soap, soda,,pasta
+rule171,0.072,0.506,1.449,flour, individual meals,,sandwich loaves
+rule1242,0.096,0.545,1.447,poultry, aluminum foil,,juice
+rule1121,0.087,0.563,1.446,poultry, hand soap,,dinner rolls
+rule1120,0.087,0.544,1.444,toilet paper, aluminum foil,,juice
+rule1151,0.088,0.524,1.444,ice cream, pasta,,paper towels
+rule615,0.079,0.536,1.443,mixes, juice,,ketchup
+rule601,0.079,0.542,1.443,shampoo, dishwashing liquid/detergent,,mixes
+rule571,0.079,0.523,1.443,all- purpose, cereals,,paper towels
+rule1180,0.089,0.523,1.443,eggs, pasta,,paper towels
+rule438,0.077,0.530,1.441,laundry detergent, tortillas,,sandwich bags
+rule201,0.073,0.522,1.440,all- purpose, individual meals,,paper towels
+rule446,0.077,0.533,1.439,all- purpose, beef,,fruits
+rule1179,0.089,0.534,1.439,paper towels, eggs,,pasta
+rule468,0.077,0.540,1.437,dishwashing liquid/detergent, hand soap,,mixes
+rule30,0.051,0.569,1.436,poultry, milk, laundry detergent,cereals
+rule1113,0.087,0.559,1.435,beef, soda,,eggs
+rule1043,0.085,0.539,1.434,aluminum foil, ketchup,,mixes
+rule938,0.083,0.556,1.432,mixes, soda,,dishwashing liquid/detergent
+rule474,0.077,0.543,1.432,sandwich loaves, toilet paper,,soap
+rule908,0.083,0.531,1.430,cheeses, sandwich loaves,,ketchup
+rule46,0.052,0.602,1.429,dinner rolls, spaghetti sauce, juice,poultry
+rule1144,0.088,0.515,1.428,poultry, beef,,sugar
+rule53,0.054,0.540,1.427,dinner rolls, spaghetti sauce, poultry,laundry detergent
+rule15,0.050,0.600,1.424,dishwashing liquid/detergent, laundry detergent, mixes,poultry
+rule934,0.083,0.540,1.423,all- purpose, ketchup,,soap
+rule1133,0.088,0.556,1.422,cereals, sandwich bags,,cheeses
+rule915,0.083,0.528,1.422,coffee/tea, juice,,ketchup
+rule1168,0.089,0.534,1.422,cereals, aluminum foil,,mixes
+rule1099,0.086,0.516,1.422,eggs, ice cream,,paper towels
+rule1201,0.090,0.528,1.422,dinner rolls, soda,,pasta
+rule796,0.082,0.525,1.422,mixes, sandwich bags,,tortillas
+rule1236,0.095,0.554,1.421,dinner rolls, soda,,eggs
+rule2,0.050,0.538,1.421,yogurt, juice, aluminum foil,toilet paper
+rule1093,0.086,0.554,1.420,paper towels, dinner rolls,,eggs
+rule879,0.083,0.531,1.417,spaghetti sauce, fruits,,beef
+rule1002,0.084,0.500,1.417,cheeses, soda,,flour
+rule63,0.066,0.500,1.417,dishwashing liquid/detergent, sandwich loaves,,flour
+rule193,0.073,0.553,1.416,sandwich bags, sugar,,soda
+rule836,0.082,0.525,1.415,paper towels, dinner rolls,,pasta
+rule1223,0.091,0.525,1.414,eggs, dinner rolls,,pasta
+rule272,0.075,0.521,1.414,dinner rolls, pork,,shampoo
+rule1227,0.092,0.553,1.414,eggs, soap,,soda
+rule559,0.079,0.536,1.412,spaghetti sauce, sandwich bags,,soap
+rule416,0.076,0.512,1.411,pasta, toilet paper,,paper towels
+rule465,0.077,0.512,1.411,shampoo, eggs,,paper towels
+rule808,0.082,0.528,1.410,laundry detergent, soap,,all- purpose
+rule1240,0.096,0.542,1.410,poultry, juice,,aluminum foil
+rule733,0.081,0.551,1.410,shampoo, sandwich bags,,cheeses
+rule880,0.083,0.522,1.410,spaghetti sauce, beef,,fruits
+rule466,0.077,0.524,1.410,mixes, soap,,ketchup
+rule324,0.076,0.531,1.409,shampoo, pork,,juice
+rule1056,0.085,0.511,1.408,ice cream, juice,,paper towels
+rule841,0.082,0.525,1.408,laundry detergent, juice,,spaghetti sauce
+rule727,0.081,0.529,1.407,dishwashing liquid/detergent, pork,,mixes
+rule1159,0.089,0.510,1.407,ice cream, lunch meat,,paper towels
+rule457,0.077,0.527,1.406,fruits, milk,,beef
+rule1231,0.093,0.541,1.406,juice, aluminum foil,,yogurt
+rule315,0.075,0.509,1.404,pasta, individual meals,,paper towels
+rule307,0.075,0.531,1.404,milk, sugar,,toilet paper
+rule853,0.082,0.528,1.403,spaghetti sauce, ketchup,,juice
+rule828,0.082,0.520,1.402,dishwashing liquid/detergent, beef,,fruits
+rule208,0.073,0.525,1.401,fruits, toilet paper,,beef
+rule492,0.078,0.520,1.401,pork, sandwich bags,,ketchup
+rule1006,0.084,0.545,1.399,butter, soda,,eggs
+rule498,0.078,0.514,1.398,milk, tortillas,,sandwich bags
+rule1078,0.086,0.544,1.397,yogurt, dishwashing liquid/detergent,,eggs
+rule309,0.075,0.538,1.396,fruits, toilet paper,,bagels
+rule565,0.079,0.529,1.396,all- purpose, soda,,soap
+rule568,0.079,0.529,1.396,spaghetti sauce, all- purpose,,soap
+rule1234,0.095,0.545,1.396,eggs, dinner rolls,,soda
+rule521,0.078,0.543,1.395,eggs, hand soap,,dinner rolls
+rule353,0.076,0.518,1.395,sandwich loaves, coffee/tea,,ketchup
+rule13,0.050,0.528,1.395,dishwashing liquid/detergent, poultry, mixes,laundry detergent
+rule1022,0.084,0.530,1.395,paper towels, dishwashing liquid/detergent,,milk
+rule950,0.083,0.525,1.394,shampoo, aluminum foil,,juice
+rule668,0.080,0.514,1.394,beef, juice,,shampoo
+rule364,0.076,0.537,1.393,spaghetti sauce, pork,,bagels
+rule349,0.076,0.544,1.393,fruits, toilet paper,,cheeses
+rule1233,0.093,0.525,1.393,yogurt, aluminum foil,,juice
+rule608,0.079,0.517,1.393,shampoo, coffee/tea,,ketchup
+rule1010,0.084,0.522,1.392,fruits, cereals,,beef
+rule699,0.080,0.517,1.392,paper towels, soap,,ketchup
+rule94,0.069,0.523,1.392,spaghetti sauce, flour,,mixes
+rule31,0.051,0.586,1.390,milk, laundry detergent, cereals,poultry
+rule19,0.051,0.586,1.390,yogurt, mixes, aluminum foil,poultry
+rule223,0.073,0.535,1.389,fruits, juice,,bagels
+rule456,0.077,0.521,1.389,fruits, soap,,beef
+rule220,0.073,0.522,1.389,paper towels, sandwich loaves,,individual meals
+rule732,0.081,0.511,1.389,shampoo, cheeses,,sandwich bags
+rule475,0.077,0.527,1.389,sandwich loaves, waffles,,soap
+rule919,0.083,0.534,1.388,yogurt, ice cream,,aluminum foil
+rule230,0.074,0.515,1.388,milk, pork,,ketchup
+rule205,0.073,0.516,1.388,sandwich loaves, soda,,ketchup
+rule1150,0.088,0.515,1.388,paper towels, ice cream,,pasta
+rule347,0.076,0.585,1.388,sandwich loaves, laundry detergent,,poultry
+rule273,0.075,0.515,1.387,pork, soap,,ketchup
+rule448,0.077,0.503,1.387,all- purpose, toilet paper,,paper towels
+rule262,0.074,0.503,1.387,fruits, milk,,paper towels
+rule677,0.080,0.503,1.387,shampoo, aluminum foil,,paper towels
+rule1163,0.089,0.526,1.387,ice cream, soda,,soap
+rule434,0.077,0.533,1.387,sandwich loaves, juice,,yogurt
+rule285,0.075,0.541,1.386,fruits, flour,,cheeses
+rule1178,0.089,0.540,1.386,paper towels, pasta,,eggs
+rule47,0.052,0.522,1.386,dinner rolls, spaghetti sauce, poultry,juice
+rule395,0.076,0.521,1.386,butter, tortillas,,mixes
+rule975,0.083,0.503,1.386,ice cream, cereals,,paper towels
+rule672,0.080,0.500,1.386,beef, soap,,sugar
+rule1221,0.091,0.539,1.385,eggs, pasta,,dinner rolls
+rule850,0.082,0.538,1.385,eggs, fruits,,dishwashing liquid/detergent
+rule539,0.078,0.514,1.385,milk, coffee/tea,,ketchup
+rule355,0.076,0.521,1.384,sandwich loaves, bagels,,juice
+rule799,0.082,0.514,1.384,sandwich bags, soap,,ketchup
+rule82,0.068,0.520,1.384,dishwashing liquid/detergent, sandwich loaves,,mixes
+rule931,0.083,0.516,1.384,lunch meat, juice,,spaghetti sauce
+rule228,0.074,0.519,1.383,shampoo, pork,,beef
+rule907,0.083,0.540,1.383,sandwich loaves, ketchup,,cheeses
+rule1123,0.087,0.538,1.383,poultry, pasta,,dinner rolls
+rule365,0.076,0.509,1.383,mixes, soda,,sandwich bags
+rule303,0.075,0.525,1.383,individual meals, ketchup,,soap
+rule155,0.071,0.516,1.383,hand soap, juice,,spaghetti sauce
+rule722,0.081,0.532,1.383,milk, coffee/tea,,yogurt
+rule128,0.071,0.540,1.382,sandwich bags, sugar,,cheeses
+rule491,0.078,0.509,1.382,pork, ketchup,,sandwich bags
+rule786,0.082,0.531,1.382,milk, juice,,yogurt
+rule1036,0.085,0.536,1.381,eggs, lunch meat,,dishwashing liquid/detergent
+rule1046,0.085,0.536,1.381,milk, mixes,,dishwashing liquid/detergent
+rule669,0.080,0.520,1.381,shampoo, beef,,juice
+rule609,0.079,0.523,1.380,shampoo, ketchup,,coffee/tea
+rule670,0.080,0.517,1.379,sugar, soap,,beef
+rule690,0.080,0.535,1.379,fruits, mixes,,dishwashing liquid/detergent
+rule253,0.074,0.535,1.379,mixes, sugar,,dishwashing liquid/detergent
+rule344,0.076,0.518,1.379,bagels, soap,,individual meals
+rule902,0.083,0.519,1.379,spaghetti sauce, ice cream,,juice
+rule371,0.076,0.524,1.379,eggs, sandwich bags,,milk
+rule1026,0.084,0.500,1.379,eggs, milk,,paper towels
+rule703,0.080,0.500,1.379,ice cream, toilet paper,,paper towels
+rule415,0.076,0.500,1.379,individual meals, toilet paper,,paper towels
+rule698,0.080,0.523,1.379,paper towels, ketchup,,soap
+rule232,0.074,0.538,1.378,flour, sandwich bags,,cheeses
+rule984,0.084,0.519,1.378,yogurt, toilet paper,,juice
+rule275,0.075,0.521,1.378,all- purpose, sandwich bags,,laundry detergent
+rule259,0.074,0.519,1.377,sandwich loaves, toilet paper,,juice
+rule697,0.080,0.511,1.377,juice, soap,,ketchup
+rule180,0.072,0.516,1.376,sandwich loaves, fruits,,beef
+rule339,0.076,0.538,1.376,shampoo, fruits,,cheeses
+rule887,0.083,0.534,1.376,waffles, mixes,,dishwashing liquid/detergent
+rule243,0.074,0.522,1.376,sandwich loaves, soda,,soap
+rule161,0.072,0.529,1.376,fruits, juice,,yogurt
+rule1068,0.085,0.536,1.375,paper towels, dishwashing liquid/detergent,,eggs
+rule935,0.083,0.511,1.375,all- purpose, soap,,ketchup
+rule1015,0.084,0.511,1.375,dishwashing liquid/detergent, dinner rolls,,pasta
+rule1053,0.085,0.511,1.375,eggs, ice cream,,pasta
+rule278,0.075,0.506,1.375,fruits, ketchup,,sandwich bags
+rule369,0.076,0.506,1.375,paper towels, cheeses,,sandwich bags
+rule297,0.075,0.535,1.374,shampoo, spaghetti sauce,,dinner rolls
+rule1188,0.090,0.537,1.374,eggs, ice cream,,soda
+rule445,0.077,0.515,1.373,fruits, all- purpose,,beef
+rule1200,0.090,0.534,1.372,pasta, soda,,dinner rolls
+rule781,0.082,0.514,1.371,yogurt, laundry detergent,,all- purpose
+rule1232,0.093,0.527,1.371,yogurt, juice,,aluminum foil
+rule1075,0.086,0.536,1.371,yogurt, coffee/tea,,cheeses
+rule861,0.083,0.516,1.371,yogurt, spaghetti sauce,,juice
+rule1205,0.090,0.515,1.371,poultry, aluminum foil,,mixes
+rule649,0.080,0.506,1.371,beef, lunch meat,,shampoo
+rule606,0.079,0.506,1.371,cereals, juice,,shampoo
+rule417,0.076,0.509,1.370,cheeses, juice,,ketchup
+rule389,0.076,0.509,1.370,flour, mixes,,ketchup
+rule418,0.076,0.521,1.370,dishwashing liquid/detergent, spaghetti sauce,,milk
+rule388,0.076,0.515,1.370,flour, ketchup,,mixes
+rule1104,0.087,0.527,1.369,yogurt, mixes,,aluminum foil
+rule1083,0.086,0.513,1.369,poultry, fruits,,beef
+rule730,0.081,0.535,1.369,sandwich bags, aluminum foil,,cheeses
+rule233,0.074,0.535,1.369,sandwich loaves, sandwich bags,,cheeses
+rule770,0.081,0.508,1.369,coffee/tea, soap,,ketchup
+rule506,0.078,0.514,1.369,dishwashing liquid/detergent, flour,,mixes
+rule911,0.083,0.511,1.369,bagels, milk,,spaghetti sauce
+rule747,0.081,0.514,1.368,bagels, soda,,individual meals
+rule444,0.077,0.518,1.368,all- purpose, soda,,laundry detergent
+rule688,0.080,0.514,1.368,dishwashing liquid/detergent, ketchup,,mixes
+rule1245,0.099,0.577,1.368,dinner rolls, spaghetti sauce,,poultry
+rule81,0.068,0.503,1.368,butter, pork,,sandwich bags
+rule863,0.083,0.534,1.367,bagels, sandwich bags,,cheeses
+rule871,0.083,0.540,1.367,individual meals, coffee/tea,,lunch meat
+rule829,0.082,0.514,1.367,dishwashing liquid/detergent, aluminum foil,,mixes
+rule882,0.083,0.514,1.367,milk, aluminum foil,,mixes
+rule322,0.076,0.503,1.367,cheeses, pork,,sandwich bags
+rule372,0.076,0.503,1.367,dishwashing liquid/detergent, tortillas,,sandwich bags
+rule794,0.082,0.503,1.367,tortillas, mixes,,sandwich bags
+rule241,0.074,0.519,1.367,sandwich loaves, all- purpose,,soap
+rule295,0.075,0.512,1.366,fruits, sugar,,beef
+rule181,0.072,0.506,1.366,sandwich loaves, beef,,fruits
+rule80,0.068,0.513,1.366,dishwashing liquid/detergent, sandwich loaves,,individual meals
+rule524,0.078,0.514,1.366,shampoo, individual meals,,juice
+rule442,0.077,0.540,1.366,waffles, milk,,lunch meat
+rule1132,0.088,0.503,1.366,cheeses, cereals,,sandwich bags
+rule856,0.083,0.525,1.366,eggs, aluminum foil,,yogurt
+rule1004,0.084,0.533,1.365,flour, soda,,cheeses
+rule588,0.079,0.506,1.365,bagels, beef,,fruits
+rule686,0.080,0.514,1.365,shampoo, waffles,,juice
+rule93,0.069,0.503,1.365,flour, juice,,shampoo
+rule101,0.069,0.503,1.365,hand soap, juice,,shampoo
+rule138,0.071,0.513,1.364,paper towels, flour,,mixes
+rule595,0.079,0.503,1.364,dinner rolls, juice,,shampoo
+rule523,0.078,0.503,1.364,individual meals, juice,,shampoo
+rule140,0.071,0.503,1.364,sandwich loaves, soda,,shampoo
+rule619,0.079,0.517,1.364,sandwich loaves, ketchup,,soap
+rule1244,0.099,0.509,1.364,dinner rolls, poultry,,spaghetti sauce
+rule265,0.074,0.509,1.364,sandwich loaves, juice,,spaghetti sauce
+rule1189,0.090,0.531,1.363,ice cream, soda,,eggs
+rule1085,0.086,0.505,1.363,poultry, beef,,fruits
+rule203,0.073,0.512,1.363,flour, tortillas,,mixes
+rule763,0.081,0.503,1.363,cheeses, laundry detergent,,shampoo
+rule439,0.077,0.506,1.362,coffee/tea, sandwich bags,,ketchup
+rule1112,0.087,0.532,1.362,eggs, beef,,soda
+rule852,0.082,0.508,1.362,juice, ketchup,,spaghetti sauce
+rule948,0.083,0.531,1.361,soda, juice,,eggs
+rule489,0.078,0.511,1.361,yogurt, sandwich loaves,,individual meals
+rule1162,0.089,0.532,1.361,ice cream, soap,,soda
+rule1204,0.090,0.536,1.361,ice cream, soda,,waffles
+rule351,0.076,0.528,1.360,waffles, milk,,dishwashing liquid/detergent
+rule1040,0.085,0.530,1.360,paper towels, soda,,eggs
+rule616,0.079,0.573,1.360,mixes, sugar,,poultry
+rule4,0.050,0.523,1.360,poultry, juice, aluminum foil,yogurt
+rule399,0.076,0.527,1.359,beef, mixes,,dishwashing liquid/detergent
+rule991,0.084,0.527,1.359,lunch meat, soda,,dishwashing liquid/detergent
+rule924,0.083,0.537,1.359,shampoo, waffles,,lunch meat
+rule957,0.083,0.511,1.359,dishwashing liquid/detergent, laundry detergent,,mixes
+rule637,0.080,0.500,1.359,cheeses, beef,,sandwich bags
+rule357,0.076,0.500,1.359,yogurt, tortillas,,sandwich bags
+rule791,0.082,0.522,1.359,coffee/tea, juice,,yogurt
+rule65,0.066,0.510,1.358,sandwich loaves, laundry detergent,,individual meals
+rule490,0.078,0.511,1.358,yogurt, ketchup,,juice
+rule1005,0.084,0.530,1.358,eggs, butter,,soda
+rule657,0.080,0.535,1.358,all- purpose, soda,,waffles
+rule583,0.079,0.503,1.357,waffles, beef,,fruits
+rule844,0.082,0.541,1.357,paper towels, cheeses,,ice cream
+rule85,0.068,0.510,1.357,sandwich loaves, milk,,individual meals
+rule981,0.084,0.522,1.357,soda, aluminum foil,,yogurt
+rule1191,0.090,0.528,1.356,pasta, soda,,eggs
+rule137,0.071,0.500,1.356,flour, toilet paper,,shampoo
+rule738,0.081,0.500,1.356,lunch meat, juice,,shampoo
+rule676,0.080,0.500,1.356,paper towels, aluminum foil,,shampoo
+rule671,0.080,0.514,1.356,beef, sugar,,soap
+rule846,0.082,0.534,1.356,dishwashing liquid/detergent, toilet paper,,waffles
+rule1029,0.085,0.522,1.356,poultry, sandwich loaves,,yogurt
+rule933,0.083,0.508,1.355,soap, ketchup,,all- purpose
+rule912,0.083,0.522,1.355,spaghetti sauce, milk,,bagels
+rule173,0.072,0.509,1.355,sandwich loaves, soda,,individual meals
+rule170,0.072,0.509,1.355,sandwich loaves, flour,,individual meals
+rule797,0.082,0.514,1.355,waffles, sandwich bags,,soap
+rule585,0.079,0.506,1.355,bagels, beef,,spaghetti sauce
+rule917,0.083,0.514,1.354,juice, ketchup,,coffee/tea
+rule1222,0.091,0.528,1.354,dinner rolls, pasta,,eggs
+rule1218,0.091,0.528,1.354,poultry, soda,,eggs
+rule1228,0.092,0.528,1.354,soda, soap,,eggs
+rule403,0.076,0.509,1.354,sandwich loaves, aluminum foil,,individual meals
+rule681,0.080,0.503,1.354,dinner rolls, coffee/tea,,ketchup
+rule196,0.073,0.503,1.354,toilet paper, sandwich bags,,ketchup
+rule643,0.080,0.503,1.354,waffles, sandwich bags,,ketchup
+rule748,0.081,0.503,1.354,paper towels, soda,,pasta
+rule214,0.073,0.503,1.354,spaghetti sauce, hand soap,,pasta
+rule667,0.080,0.529,1.354,eggs, sugar,,soda
+rule428,0.077,0.521,1.354,flour, pasta,,yogurt
+rule432,0.077,0.521,1.354,mixes, coffee/tea,,yogurt
+rule517,0.078,0.520,1.353,cheeses, juice,,aluminum foil
+rule741,0.081,0.508,1.353,eggs, lunch meat,,individual meals
+rule110,0.070,0.510,1.353,toilet paper, pork,,juice
+rule805,0.082,0.534,1.353,individual meals, toilet paper,,lunch meat
+rule495,0.078,0.509,1.353,dishwashing liquid/detergent, sandwich bags,,mixes
+rule1190,0.090,0.528,1.353,eggs, pasta,,soda
+rule396,0.076,0.500,1.353,butter, mixes,,tortillas
+rule300,0.075,0.500,1.353,toilet paper, mixes,,tortillas
+rule548,0.079,0.520,1.353,all- purpose, milk,,yogurt
+rule752,0.081,0.520,1.352,laundry detergent, juice,,aluminum foil
+rule354,0.076,0.521,1.352,sandwich loaves, juice,,bagels
+rule848,0.082,0.514,1.352,paper towels, poultry,,milk
+rule795,0.082,0.508,1.352,tortillas, sandwich bags,,mixes
+rule501,0.078,0.533,1.352,sandwich loaves, lunch meat,,waffles
+rule881,0.083,0.519,1.351,milk, mixes,,aluminum foil
+rule69,0.067,0.521,1.351,fruits, pork,,bagels
+rule119,0.070,0.506,1.351,hand soap, ketchup,,beef
+rule424,0.077,0.509,1.351,yogurt, pork,,juice
+rule764,0.081,0.511,1.351,shampoo, cheeses,,laundry detergent
+rule928,0.083,0.534,1.351,waffles, individual meals,,lunch meat
+rule204,0.073,0.512,1.351,flour, toilet paper,,soap
+rule618,0.079,0.533,1.351,fruits, soap,,waffles
+rule1080,0.086,0.533,1.351,lunch meat, juice,,waffles
+rule857,0.083,0.519,1.351,coffee/tea, aluminum foil,,yogurt
+rule784,0.082,0.520,1.351,dinner rolls, juice,,yogurt
+rule560,0.079,0.500,1.350,beef, lunch meat,,fruits
+rule1012,0.084,0.500,1.350,beef, cereals,,fruits
+rule749,0.081,0.500,1.350,ice cream, beef,,fruits
+rule555,0.079,0.500,1.350,yogurt, dishwashing liquid/detergent,,fruits
+rule775,0.081,0.538,1.350,paper towels, fruits,,ice cream
+rule759,0.081,0.508,1.350,coffee/tea, aluminum foil,,juice
+rule611,0.079,0.508,1.350,paper towels, shampoo,,juice
+rule685,0.080,0.508,1.350,shampoo, toilet paper,,juice
+rule113,0.070,0.533,1.350,dishwashing liquid/detergent, sandwich loaves,,lunch meat
+rule1003,0.084,0.527,1.350,cheeses, flour,,soda
+rule569,0.079,0.506,1.349,waffles, laundry detergent,,all- purpose
+rule427,0.077,0.506,1.349,yogurt, ketchup,,all- purpose
+rule271,0.075,0.525,1.349,shampoo, pork,,dinner rolls
+rule1152,0.088,0.524,1.349,eggs, bagels,,dishwashing liquid/detergent
+rule792,0.082,0.508,1.349,yogurt, coffee/tea,,juice
+rule500,0.078,0.533,1.349,sandwich loaves, waffles,,lunch meat
+rule154,0.071,0.513,1.349,hand soap, toilet paper,,milk
+rule1127,0.087,0.513,1.349,laundry detergent, cereals,,milk
+rule1237,0.095,0.507,1.349,dishwashing liquid/detergent, poultry,,mixes
+rule79,0.068,0.503,1.349,sandwich loaves, milk,,spaghetti sauce
+rule1058,0.085,0.511,1.349,waffles, juice,,toilet paper
+rule508,0.078,0.527,1.348,flour, ketchup,,cheeses
+rule1158,0.089,0.537,1.348,paper towels, lunch meat,,ice cream
+rule108,0.069,0.506,1.348,sandwich loaves, sugar,,individual meals
+rule563,0.079,0.533,1.348,individual meals, sugar,,lunch meat
+rule1197,0.090,0.513,1.348,poultry, laundry detergent,,milk
+rule640,0.080,0.511,1.348,ice cream, sandwich bags,,soap
+rule745,0.081,0.511,1.348,soda, ketchup,,soap
+rule535,0.078,0.503,1.348,cheeses, sandwich loaves,,spaghetti sauce
+rule336,0.076,0.503,1.348,dinner rolls, toilet paper,,spaghetti sauce
+rule186,0.072,0.503,1.348,hand soap, waffles,,spaghetti sauce
+rule267,0.075,0.518,1.348,flour, sugar,,yogurt
+rule400,0.076,0.518,1.347,mixes, juice,,aluminum foil
+rule904,0.083,0.511,1.347,waffles, ketchup,,coffee/tea
+rule402,0.076,0.537,1.347,aluminum foil, sugar,,ice cream
+rule964,0.083,0.511,1.347,poultry, sandwich loaves,,soap
+rule896,0.083,0.511,1.347,waffles, ketchup,,soap
+rule854,0.082,0.503,1.347,bagels, juice,,spaghetti sauce
+rule582,0.079,0.503,1.347,soda, juice,,spaghetti sauce
+rule318,0.076,0.518,1.347,eggs, sandwich bags,,yogurt
+rule359,0.076,0.518,1.347,mixes, juice,,yogurt
+rule458,0.077,0.518,1.346,toilet paper, mixes,,aluminum foil
+rule765,0.081,0.526,1.346,shampoo, laundry detergent,,cheeses
+rule520,0.078,0.524,1.346,laundry detergent, sugar,,dinner rolls
+rule620,0.079,0.500,1.346,sandwich loaves, soap,,ketchup
+rule366,0.076,0.506,1.346,sandwich bags, aluminum foil,,mixes
+rule486,0.078,0.517,1.346,sandwich bags, aluminum foil,,yogurt
+rule1192,0.090,0.523,1.345,shampoo, poultry,,dinner rolls
+rule91,0.069,0.523,1.345,spaghetti sauce, flour,,dinner rolls
+rule977,0.083,0.522,1.345,bagels, waffles,,dishwashing liquid/detergent
+rule958,0.083,0.522,1.345,laundry detergent, mixes,,dishwashing liquid/detergent
+rule1054,0.085,0.536,1.345,paper towels, juice,,ice cream
+rule705,0.080,0.506,1.345,ice cream, sandwich loaves,,individual meals
+rule397,0.076,0.509,1.345,butter, spaghetti sauce,,laundry detergent
+rule536,0.078,0.511,1.345,dishwashing liquid/detergent, juice,,milk
+rule258,0.074,0.509,1.345,sandwich loaves, juice,,toilet paper
+rule758,0.081,0.517,1.344,coffee/tea, juice,,aluminum foil
+rule1023,0.084,0.522,1.344,paper towels, milk,,dishwashing liquid/detergent
+rule1238,0.095,0.522,1.344,poultry, mixes,,dishwashing liquid/detergent
+rule567,0.079,0.508,1.344,dinner rolls, all- purpose,,laundry detergent
+rule967,0.083,0.511,1.344,dishwashing liquid/detergent, laundry detergent,,milk
+rule472,0.077,0.518,1.343,individual meals, mixes,,bagels
+rule920,0.083,0.525,1.343,waffles, sandwich bags,,cheeses
+rule183,0.072,0.522,1.343,mixes, sugar,,dinner rolls
+rule330,0.076,0.521,1.343,flour, waffles,,dishwashing liquid/detergent
+rule1154,0.088,0.524,1.343,dishwashing liquid/detergent, bagels,,eggs
+rule435,0.077,0.506,1.343,yogurt, sandwich loaves,,juice
+rule1042,0.085,0.516,1.342,mixes, ketchup,,aluminum foil
+rule955,0.083,0.522,1.342,spaghetti sauce, pasta,,dinner rolls
+rule1149,0.088,0.535,1.342,paper towels, pasta,,ice cream
+rule757,0.081,0.505,1.342,paper towels, aluminum foil,,juice
+rule739,0.081,0.505,1.342,shampoo, lunch meat,,juice
+rule692,0.080,0.506,1.342,spaghetti sauce, mixes,,juice
+rule842,0.082,0.505,1.342,spaghetti sauce, laundry detergent,,juice
+rule1122,0.087,0.566,1.342,dinner rolls, hand soap,,poultry
+rule1107,0.087,0.566,1.342,lunch meat, mixes,,poultry
+rule1031,0.085,0.516,1.342,eggs, juice,,yogurt
+rule661,0.080,0.503,1.341,paper towels, poultry,,all- purpose
+rule877,0.083,0.503,1.341,paper towels, cereals,,beef
+rule878,0.083,0.531,1.341,paper towels, beef,,cereals
+rule437,0.077,0.509,1.341,waffles, pork,,coffee/tea
+rule1014,0.084,0.522,1.341,dishwashing liquid/detergent, pasta,,dinner rolls
+rule507,0.078,0.520,1.341,flour, mixes,,dishwashing liquid/detergent
+rule306,0.075,0.535,1.341,sandwich loaves, fruits,,ice cream
+rule1143,0.088,0.565,1.341,beef, sugar,,poultry
+rule1136,0.088,0.565,1.341,dinner rolls, all- purpose,,poultry
+rule401,0.076,0.509,1.341,sandwich loaves, aluminum foil,,soap
+rule160,0.072,0.516,1.341,sandwich loaves, fruits,,yogurt
+rule177,0.072,0.522,1.340,butter, sugar,,eggs
+rule247,0.074,0.500,1.340,butter, juice,,spaghetti sauce
+rule1087,0.086,0.500,1.340,juice, aluminum foil,,spaghetti sauce
+rule473,0.077,0.500,1.340,laundry detergent, soap,,spaghetti sauce
+rule816,0.082,0.500,1.340,laundry detergent, soda,,spaghetti sauce
+rule905,0.083,0.528,1.340,coffee/tea, juice,,waffles
+rule639,0.080,0.523,1.339,dinner rolls, sandwich bags,,cheeses
+rule98,0.069,0.523,1.339,spaghetti sauce, flour,,cheeses
+rule728,0.081,0.520,1.339,mixes, pork,,dishwashing liquid/detergent
+rule1208,0.090,0.534,1.339,cheeses, aluminum foil,,ice cream
+rule219,0.073,0.503,1.339,sandwich loaves, juice,,individual meals
+rule73,0.067,0.507,1.339,butter, hand soap,,laundry detergent
+rule70,0.067,0.507,1.339,sandwich bags, sugar,,laundry detergent
+rule212,0.073,0.503,1.339,cheeses, tortillas,,mixes
+rule78,0.068,0.503,1.339,shampoo, tortillas,,mixes
+rule1173,0.089,0.564,1.339,dinner rolls, juice,,poultry
+rule779,0.081,0.564,1.339,juice, sugar,,poultry
+rule1165,0.089,0.523,1.339,eggs, waffles,,soda
+rule573,0.079,0.523,1.339,flour, soap,,soda
+rule580,0.079,0.523,1.339,pasta, milk,,soda
+rule294,0.075,0.528,1.339,beef, coffee/tea,,waffles
+rule488,0.078,0.514,1.338,paper towels, yogurt,,aluminum foil
+rule1025,0.084,0.522,1.338,paper towels, milk,,eggs
+rule460,0.077,0.503,1.338,dinner rolls, hand soap,,mixes
+rule1137,0.088,0.508,1.338,poultry, soda,,soap
+rule1199,0.090,0.523,1.338,dinner rolls, pasta,,soda
+rule1202,0.090,0.523,1.338,ice cream, waffles,,soda
+rule116,0.070,0.523,1.338,sandwich loaves, milk,,soda
+rule430,0.077,0.515,1.338,sandwich loaves, aluminum foil,,yogurt
+rule590,0.079,0.514,1.337,ice cream, mixes,,aluminum foil
+rule675,0.080,0.514,1.337,paper towels, shampoo,,aluminum foil
+rule613,0.079,0.529,1.337,toilet paper, mixes,,cereals
+rule1117,0.087,0.521,1.337,dishwashing liquid/detergent, soda,,eggs
+rule282,0.075,0.506,1.337,butter, all- purpose,,laundry detergent
+rule194,0.073,0.506,1.337,individual meals, sandwich bags,,laundry detergent
+rule813,0.082,0.522,1.337,waffles, laundry detergent,,soda
+rule719,0.081,0.514,1.337,pasta, aluminum foil,,yogurt
+rule858,0.083,0.514,1.336,yogurt, coffee/tea,,aluminum foil
+rule811,0.082,0.520,1.336,poultry, flour,,dinner rolls
+rule191,0.073,0.503,1.336,pork, soap,,juice
+rule102,0.069,0.503,1.336,shampoo, hand soap,,juice
+rule72,0.067,0.503,1.336,spaghetti sauce, flour,,juice
+rule642,0.080,0.506,1.336,cereals, sandwich bags,,laundry detergent
+rule1018,0.084,0.508,1.336,ice cream, cereals,,milk
+rule1024,0.084,0.508,1.336,paper towels, eggs,,milk
+rule940,0.083,0.522,1.336,pasta, soap,,soda
+rule654,0.080,0.506,1.336,bagels, lunch meat,,toilet paper
+rule115,0.070,0.506,1.335,paper towels, flour,,coffee/tea
+rule167,0.072,0.506,1.335,pasta, lunch meat,,coffee/tea
+rule629,0.079,0.520,1.335,bagels, pasta,,eggs
+rule916,0.083,0.503,1.335,coffee/tea, ketchup,,juice
+rule753,0.081,0.503,1.335,laundry detergent, aluminum foil,,juice
+rule362,0.076,0.503,1.335,paper towels, yogurt,,juice
+rule463,0.077,0.503,1.335,shampoo, laundry detergent,,juice
+rule790,0.082,0.503,1.335,yogurt, bagels,,juice
+rule378,0.076,0.527,1.335,fruits, individual meals,,lunch meat
+rule1037,0.085,0.522,1.335,eggs, spaghetti sauce,,soda
+rule1119,0.087,0.505,1.335,juice, aluminum foil,,toilet paper
+rule1140,0.088,0.526,1.335,dishwashing liquid/detergent, soda,,waffles
+rule147,0.071,0.500,1.334,aluminum foil, sugar,,beef
+rule648,0.080,0.500,1.334,shampoo, lunch meat,,beef
+rule1095,0.086,0.503,1.334,shampoo, poultry,,juice
+rule1216,0.091,0.562,1.334,dinner rolls, lunch meat,,poultry
+rule1074,0.086,0.513,1.334,cheeses, coffee/tea,,yogurt
+rule832,0.082,0.514,1.333,dishwashing liquid/detergent, aluminum foil,,bagels
+rule682,0.080,0.506,1.333,dinner rolls, ketchup,,coffee/tea
+rule1092,0.086,0.519,1.333,paper towels, eggs,,dinner rolls
+rule822,0.082,0.520,1.333,bagels, soda,,eggs
+rule1146,0.088,0.562,1.333,dinner rolls, milk,,poultry
+rule621,0.079,0.506,1.333,pasta, ketchup,,soap
+rule1141,0.088,0.521,1.333,eggs, milk,,soda
+rule534,0.078,0.520,1.332,spaghetti sauce, sandwich loaves,,cheeses
+rule120,0.070,0.506,1.332,hand soap, aluminum foil,,milk
+rule1153,0.088,0.513,1.331,dishwashing liquid/detergent, eggs,,bagels
+rule1070,0.085,0.519,1.331,paper towels, cereals,,eggs
+rule646,0.080,0.500,1.331,lunch meat, soda,,individual meals
+rule655,0.080,0.526,1.331,dishwashing liquid/detergent, sugar,,lunch meat
+rule740,0.081,0.526,1.331,eggs, individual meals,,lunch meat
+rule64,0.066,0.500,1.331,butter, hand soap,,mixes
+rule245,0.074,0.500,1.331,butter, aluminum foil,,mixes
+rule407,0.076,0.500,1.331,dishwashing liquid/detergent, toilet paper,,mixes
+rule937,0.083,0.500,1.331,dishwashing liquid/detergent, soda,,mixes
+rule1045,0.085,0.500,1.331,dishwashing liquid/detergent, milk,,mixes
+rule100,0.069,0.500,1.331,hand soap, aluminum foil,,mixes
+rule103,0.069,0.500,1.331,hand soap, cereals,,mixes
+rule89,0.069,0.500,1.331,hand soap, sandwich bags,,mixes
+rule152,0.071,0.500,1.331,paper towels, tortillas,,mixes
+rule470,0.077,0.500,1.331,poultry, hand soap,,mixes
+rule599,0.079,0.500,1.331,shampoo, cheeses,,mixes
+rule229,0.074,0.500,1.331,tortillas, pork,,mixes
+rule1186,0.090,0.505,1.331,waffles, soda,,soap
+rule664,0.080,0.520,1.331,pasta, laundry detergent,,soda
+rule943,0.083,0.525,1.331,coffee/tea, soda,,waffles
+rule665,0.080,0.520,1.331,eggs, individual meals,,soda
+rule890,0.083,0.500,1.331,poultry, ketchup,,mixes
+rule1219,0.091,0.517,1.330,eggs, poultry,,dinner rolls
+rule1001,0.084,0.516,1.330,fruits, lunch meat,,dishwashing liquid/detergent
+rule1059,0.085,0.561,1.330,toilet paper, sugar,,poultry
+rule96,0.069,0.503,1.330,flour, juice,,toilet paper
+rule549,0.079,0.511,1.330,flour, aluminum foil,,yogurt
+rule222,0.073,0.512,1.329,paper towels, tortillas,,bagels
+rule345,0.076,0.518,1.329,bagels, soap,,eggs
+rule514,0.078,0.503,1.329,beef, juice,,toilet paper
+rule478,0.077,0.503,1.329,milk, juice,,toilet paper
+rule410,0.076,0.512,1.328,fruits, mixes,,bagels
+rule1091,0.086,0.500,1.328,dinner rolls, spaghetti sauce,,juice
+rule702,0.080,0.500,1.328,ice cream, toilet paper,,juice
+rule1055,0.085,0.500,1.328,paper towels, ice cream,,juice
+rule610,0.079,0.500,1.328,shampoo, bagels,,juice
+rule127,0.071,0.500,1.328,spaghetti sauce, pork,,juice
+rule533,0.078,0.500,1.328,toilet paper, ketchup,,juice
+rule1196,0.090,0.502,1.328,poultry, milk,,laundry detergent
+rule929,0.083,0.525,1.328,dishwashing liquid/detergent, individual meals,,lunch meat
+rule310,0.075,0.518,1.327,fruits, pasta,,cheeses
+rule352,0.076,0.515,1.327,fruits, milk,,dishwashing liquid/detergent
+rule342,0.076,0.515,1.327,pasta, mixes,,dishwashing liquid/detergent
+rule541,0.078,0.517,1.327,pasta, milk,,eggs
+rule1033,0.085,0.524,1.327,ice cream, individual meals,,lunch meat
+rule61,0.065,0.503,1.327,sandwich loaves, laundry detergent,,soap
+rule1105,0.087,0.510,1.327,shampoo, juice,,yogurt
+rule1167,0.089,0.510,1.326,mixes, cereals,,aluminum foil
+rule776,0.081,0.511,1.326,spaghetti sauce, individual meals,,bagels
+rule287,0.075,0.503,1.326,flour, pasta,,coffee/tea
+rule441,0.077,0.524,1.326,individual meals, beef,,lunch meat
+rule447,0.077,0.503,1.326,all- purpose, toilet paper,,soap
+rule90,0.069,0.510,1.325,flour, bagels,,aluminum foil
+rule149,0.071,0.509,1.325,paper towels, sandwich loaves,,aluminum foil
+rule988,0.084,0.525,1.325,yogurt, coffee/tea,,cereals
+rule368,0.076,0.518,1.325,spaghetti sauce, sandwich bags,,cheeses
+rule298,0.075,0.515,1.325,spaghetti sauce, sugar,,dinner rolls
+rule680,0.080,0.514,1.325,dinner rolls, bagels,,dishwashing liquid/detergent
+rule561,0.079,0.514,1.325,lunch meat, mixes,,dishwashing liquid/detergent
+rule910,0.083,0.516,1.325,cheeses, pasta,,eggs
+rule809,0.082,0.503,1.325,all- purpose, laundry detergent,,soap
+rule894,0.083,0.503,1.325,spaghetti sauce, waffles,,soap
+rule1185,0.090,0.518,1.325,waffles, soap,,soda
+rule188,0.073,0.509,1.324,waffles, milk,,yogurt
+rule248,0.074,0.509,1.324,beef, mixes,,aluminum foil
+rule250,0.074,0.509,1.324,sandwich loaves, bagels,,aluminum foil
+rule979,0.083,0.516,1.324,bagels, milk,,eggs
+rule980,0.083,0.516,1.324,poultry, pasta,,eggs
+rule952,0.083,0.528,1.324,fruits, aluminum foil,,ice cream
+rule1175,0.089,0.558,1.324,dinner rolls, coffee/tea,,poultry
+rule1217,0.091,0.517,1.324,eggs, poultry,,soda
+rule921,0.083,0.522,1.324,lunch meat, soda,,waffles
+rule925,0.083,0.522,1.324,shampoo, lunch meat,,waffles
+rule266,0.075,0.509,1.324,juice, sandwich bags,,yogurt
+rule187,0.073,0.509,1.324,shampoo, flour,,yogurt
+rule1128,0.087,0.524,1.323,milk, laundry detergent,,cereals
+rule734,0.081,0.517,1.323,ice cream, sandwich bags,,cheeses
+rule1067,0.085,0.513,1.323,paper towels, eggs,,dishwashing liquid/detergent
+rule1115,0.087,0.516,1.323,cheeses, soda,,eggs
+rule1013,0.084,0.527,1.323,paper towels, aluminum foil,,ice cream
+rule584,0.079,0.503,1.323,dishwashing liquid/detergent, beef,,milk
+rule360,0.076,0.503,1.323,paper towels, yogurt,,milk
+rule1030,0.085,0.557,1.323,yogurt, sandwich loaves,,poultry
+rule663,0.080,0.517,1.323,sugar, soap,,soda
+rule429,0.077,0.509,1.323,flour, coffee/tea,,yogurt
+rule756,0.081,0.508,1.322,paper towels, juice,,aluminum foil
+rule720,0.081,0.508,1.322,yogurt, pasta,,aluminum foil
+rule820,0.082,0.503,1.322,toilet paper, soda,,milk
+rule723,0.081,0.503,1.322,yogurt, coffee/tea,,milk
+rule942,0.083,0.516,1.322,pasta, waffles,,soda
+rule873,0.083,0.516,1.322,waffles, sugar,,soda
+rule631,0.080,0.508,1.322,all- purpose, aluminum foil,,yogurt
+rule547,0.079,0.508,1.322,dinner rolls, all- purpose,,yogurt
+rule717,0.081,0.508,1.322,shampoo, aluminum foil,,yogurt
+rule785,0.082,0.508,1.322,waffles, cereals,,yogurt
+rule718,0.081,0.508,1.322,yogurt, shampoo,,aluminum foil
+rule264,0.074,0.509,1.321,fruits, individual meals,,bagels
+rule625,0.079,0.523,1.321,paper towels, cheeses,,cereals
+rule114,0.070,0.516,1.321,flour, bagels,,cheeses
+rule1020,0.084,0.516,1.321,poultry, sandwich loaves,,cheeses
+rule334,0.076,0.515,1.321,pasta, beef,,eggs
+rule810,0.082,0.500,1.321,all- purpose, soap,,laundry detergent
+rule1126,0.087,0.500,1.321,milk, cereals,,laundry detergent
+rule326,0.076,0.500,1.321,sandwich bags, aluminum foil,,laundry detergent
+rule1213,0.090,0.557,1.321,dinner rolls, mixes,,poultry
+rule246,0.074,0.500,1.321,butter, juice,,toilet paper
+rule436,0.077,0.521,1.321,coffee/tea, pork,,waffles
+rule404,0.076,0.509,1.320,dinner rolls, toilet paper,,bagels
+rule185,0.072,0.516,1.320,shampoo, spaghetti sauce,,cheeses
+rule263,0.074,0.512,1.320,fruits, pasta,,dishwashing liquid/detergent
+rule592,0.079,0.526,1.320,sandwich loaves, aluminum foil,,ice cream
+rule1241,0.096,0.556,1.320,juice, aluminum foil,,poultry
+rule1072,0.086,0.508,1.320,eggs, cheeses,,yogurt
+rule408,0.076,0.512,1.319,toilet paper, mixes,,dishwashing liquid/detergent
+rule630,0.079,0.514,1.319,paper towels, bagels,,eggs
+rule328,0.076,0.521,1.319,flour, waffles,,lunch meat
+rule1110,0.087,0.521,1.319,poultry, waffles,,lunch meat
+rule284,0.075,0.515,1.319,flour, waffles,,soda
+rule290,0.075,0.515,1.319,milk, individual meals,,soda
+rule244,0.074,0.515,1.319,waffles, milk,,soda
+rule528,0.078,0.500,1.318,waffles, individual meals,,soap
+rule249,0.074,0.522,1.318,beef, coffee/tea,,cereals
+rule540,0.078,0.500,1.318,milk, ketchup,,coffee/tea
+rule1076,0.086,0.500,1.318,yogurt, cheeses,,coffee/tea
+rule1194,0.090,0.513,1.318,poultry, laundry detergent,,dinner rolls
+rule762,0.081,0.514,1.318,dinner rolls, juice,,eggs
+rule1157,0.089,0.521,1.318,paper towels, ice cream,,lunch meat
+rule133,0.071,0.500,1.318,all- purpose, flour,,soap
+rule574,0.079,0.500,1.318,flour, soda,,soap
+rule645,0.080,0.500,1.318,lunch meat, soda,,soap
+rule148,0.071,0.500,1.318,sandwich loaves, beef,,soap
+rule527,0.078,0.500,1.318,toilet paper, ketchup,,soap
+rule695,0.080,0.500,1.318,waffles, sugar,,soap
+rule830,0.082,0.520,1.318,aluminum foil, soap,,waffles
+rule821,0.082,0.520,1.318,soda, juice,,waffles
+rule87,0.069,0.506,1.317,sandwich loaves, sugar,,yogurt
+rule159,0.072,0.506,1.316,flour, toilet paper,,yogurt
+rule293,0.075,0.506,1.316,individual meals, beef,,aluminum foil
+rule409,0.076,0.521,1.316,pasta, mixes,,cereals
+rule558,0.079,0.514,1.316,butter, sandwich bags,,cheeses
+rule992,0.084,0.525,1.316,cheeses, lunch meat,,ice cream
+rule348,0.076,0.524,1.316,fruits, pasta,,ice cream
+rule647,0.080,0.520,1.316,shampoo, beef,,lunch meat
+rule158,0.072,0.506,1.316,all- purpose, flour,,yogurt
+rule593,0.079,0.506,1.315,cereals, juice,,aluminum foil
+rule516,0.078,0.506,1.315,waffles, mixes,,aluminum foil
+rule431,0.077,0.506,1.315,yogurt, sandwich loaves,,aluminum foil
+rule633,0.080,0.506,1.315,yogurt, individual meals,,aluminum foil
+rule141,0.071,0.513,1.315,hand soap, soda,,eggs
+rule945,0.083,0.500,1.315,dishwashing liquid/detergent, soda,,milk
+rule340,0.076,0.500,1.315,shampoo, eggs,,milk
+rule1064,0.085,0.554,1.315,dishwashing liquid/detergent, coffee/tea,,poultry
+rule1184,0.090,0.554,1.315,lunch meat, sugar,,poultry
+rule712,0.081,0.505,1.315,beef, aluminum foil,,yogurt
+rule433,0.077,0.506,1.315,cheeses, sugar,,yogurt
+rule553,0.079,0.506,1.315,cheeses, milk,,yogurt
+rule714,0.081,0.505,1.315,cheeses, beef,,yogurt
+rule823,0.082,0.505,1.314,ice cream, beef,,aluminum foil
+rule951,0.083,0.505,1.314,ice cream, fruits,,aluminum foil
+rule978,0.083,0.514,1.314,bagels, cereals,,cheeses
+rule851,0.082,0.554,1.314,tortillas, sugar,,poultry
+rule939,0.083,0.514,1.314,cheeses, soap,,soda
+rule1039,0.085,0.513,1.314,paper towels, eggs,,soda
+rule985,0.084,0.505,1.314,poultry, waffles,,yogurt
+rule1207,0.090,0.505,1.313,ice cream, cheeses,,aluminum foil
+rule1210,0.090,0.505,1.313,poultry, ice cream,,aluminum foil
+rule1118,0.087,0.505,1.313,toilet paper, juice,,aluminum foil
+rule197,0.073,0.506,1.313,individual meals, sandwich bags,,bagels
+rule384,0.076,0.512,1.313,spaghetti sauce, all- purpose,,eggs
+rule1114,0.087,0.513,1.313,eggs, cheeses,,soda
+rule1103,0.087,0.505,1.313,mixes, aluminum foil,,yogurt
+rule483,0.077,0.506,1.312,individual meals, tortillas,,bagels
+rule624,0.079,0.506,1.312,tortillas, toilet paper,,bagels
+rule859,0.083,0.519,1.312,yogurt, laundry detergent,,cereals
+rule1209,0.090,0.512,1.312,ice cream, aluminum foil,,cheeses
+rule174,0.072,0.509,1.312,butter, fruits,,dishwashing liquid/detergent
+rule545,0.078,0.511,1.312,pasta, tortillas,,eggs
+rule240,0.074,0.519,1.312,coffee/tea, sugar,,lunch meat
+rule886,0.083,0.553,1.312,dinner rolls, sandwich loaves,,poultry
+rule172,0.072,0.513,1.312,milk, sugar,,soda
+rule136,0.071,0.513,1.312,paper towels, flour,,soda
+rule696,0.080,0.517,1.312,sugar, soap,,waffles
+rule216,0.073,0.512,1.311,coffee/tea, sugar,,cheeses
+rule1229,0.092,0.510,1.311,poultry, cereals,,dinner rolls
+rule469,0.077,0.509,1.311,hand soap, mixes,,dishwashing liquid/detergent
+rule537,0.078,0.509,1.311,milk, juice,,dishwashing liquid/detergent
+rule914,0.083,0.511,1.311,dishwashing liquid/detergent, pasta,,eggs
+rule767,0.081,0.523,1.311,paper towels, soap,,ice cream
+rule843,0.082,0.522,1.311,paper towels, waffles,,ice cream
+rule121,0.070,0.510,1.310,hand soap, sugar,,dinner rolls
+rule971,0.083,0.522,1.310,cheeses, pasta,,ice cream
+rule41,0.052,0.522,1.310,dinner rolls, spaghetti sauce, poultry,ice cream
+rule557,0.079,0.552,1.310,dinner rolls, pork,,poultry
+rule392,0.076,0.512,1.310,dinner rolls, individual meals,,soda
+rule386,0.076,0.512,1.310,eggs, flour,,soda
+rule452,0.077,0.512,1.310,pasta, sugar,,soda
+rule893,0.083,0.516,1.310,dishwashing liquid/detergent, soap,,waffles
+rule1134,0.088,0.518,1.309,cheeses, sandwich bags,,cereals
+rule638,0.080,0.511,1.309,beef, sandwich bags,,cheeses
+rule635,0.080,0.511,1.309,yogurt, ice cream,,cheeses
+rule1065,0.085,0.508,1.309,poultry, fruits,,dishwashing liquid/detergent
+rule578,0.079,0.511,1.309,laundry detergent, soap,,soda
+rule998,0.084,0.516,1.309,fruits, lunch meat,,waffles
+rule86,0.069,0.503,1.309,flour, juice,,yogurt
+rule518,0.078,0.503,1.308,individual meals, juice,,aluminum foil
+rule487,0.078,0.503,1.308,yogurt, sandwich bags,,aluminum foil
+rule346,0.076,0.518,1.308,laundry detergent, coffee/tea,,cereals
+rule387,0.076,0.509,1.308,flour, mixes,,dinner rolls
+rule337,0.076,0.509,1.308,hand soap, pasta,,dinner rolls
+rule459,0.077,0.509,1.308,hand soap, mixes,,dinner rolls
+rule391,0.076,0.509,1.308,shampoo, soda,,dinner rolls
+rule519,0.078,0.509,1.308,shampoo, laundry detergent,,dinner rolls
+rule729,0.081,0.511,1.308,milk, sandwich bags,,soda
+rule872,0.083,0.511,1.308,milk, soap,,soda
+rule358,0.076,0.503,1.308,all- purpose, mixes,,yogurt
+rule189,0.073,0.503,1.308,cheeses, tortillas,,yogurt
+rule226,0.074,0.503,1.308,fruits, milk,,yogurt
+rule320,0.076,0.503,1.308,shampoo, soda,,yogurt
+rule321,0.076,0.503,1.308,cheeses, juice,,yogurt
+rule551,0.079,0.503,1.307,poultry, flour,,yogurt
+rule678,0.080,0.503,1.307,spaghetti sauce, ice cream,,aluminum foil
+rule550,0.079,0.503,1.307,yogurt, flour,,aluminum foil
+rule982,0.084,0.503,1.307,yogurt, soda,,aluminum foil
+rule464,0.077,0.518,1.307,shampoo, milk,,cereals
+rule673,0.080,0.508,1.307,pasta, aluminum foil,,dinner rolls
+rule721,0.081,0.508,1.307,yogurt, pasta,,dinner rolls
+rule145,0.071,0.509,1.307,butter, milk,,eggs
+rule869,0.083,0.516,1.307,sandwich loaves, individual meals,,lunch meat
+rule780,0.082,0.503,1.307,all- purpose, laundry detergent,,yogurt
+rule789,0.082,0.503,1.307,bagels, juice,,yogurt
+rule1028,0.085,0.503,1.307,cheeses, aluminum foil,,yogurt
+rule1077,0.086,0.503,1.307,dishwashing liquid/detergent, eggs,,yogurt
+rule634,0.080,0.503,1.307,milk, mixes,,yogurt
+rule1155,0.089,0.502,1.307,poultry, juice,,yogurt
+rule954,0.083,0.508,1.306,spaghetti sauce, waffles,,dinner rolls
+rule129,0.071,0.516,1.306,flour, juice,,lunch meat
+rule997,0.084,0.516,1.306,fruits, waffles,,lunch meat
+rule1079,0.086,0.516,1.306,waffles, juice,,lunch meat
+rule146,0.071,0.503,1.305,butter, fruits,,bagels
+rule420,0.076,0.503,1.305,dishwashing liquid/detergent, tortillas,,bagels
+rule1225,0.091,0.510,1.305,poultry, ice cream,,cheeses
+rule1174,0.089,0.508,1.305,poultry, coffee/tea,,dinner rolls
+rule505,0.078,0.509,1.305,all- purpose, juice,,eggs
+rule522,0.078,0.509,1.305,dinner rolls, hand soap,,eggs
+rule482,0.077,0.509,1.305,milk, coffee/tea,,eggs
+rule117,0.070,0.510,1.304,butter, sugar,,cheeses
+rule1235,0.095,0.507,1.304,eggs, soda,,dinner rolls
+rule299,0.075,0.506,1.304,mixes, soap,,dishwashing liquid/detergent
+rule305,0.075,0.506,1.304,paper towels, laundry detergent,,dishwashing liquid/detergent
+rule242,0.074,0.509,1.303,flour, waffles,,cheeses
+rule383,0.076,0.506,1.303,all- purpose, cereals,,dishwashing liquid/detergent
+rule596,0.079,0.506,1.303,dinner rolls, milk,,dishwashing liquid/detergent
+rule419,0.076,0.506,1.303,pasta, milk,,dishwashing liquid/detergent
+rule602,0.079,0.506,1.303,shampoo, mixes,,dishwashing liquid/detergent
+rule1052,0.085,0.508,1.303,ice cream, pasta,,eggs
+rule1038,0.085,0.508,1.303,spaghetti sauce, soda,,eggs
+rule1027,0.085,0.508,1.303,yogurt, soda,,eggs
+rule329,0.076,0.515,1.303,dishwashing liquid/detergent, spaghetti sauce,,lunch meat
+rule379,0.076,0.515,1.303,spaghetti sauce, tortillas,,lunch meat
+rule936,0.083,0.549,1.303,all- purpose, milk,,poultry
+rule227,0.074,0.509,1.303,pork, soap,,soda
+rule961,0.083,0.514,1.303,cheeses, soap,,waffles
+rule923,0.083,0.514,1.303,dinner rolls, lunch meat,,waffles
+rule798,0.082,0.514,1.303,sandwich bags, soap,,waffles
+rule895,0.083,0.514,1.303,spaghetti sauce, soap,,waffles
+rule941,0.083,0.514,1.303,toilet paper, soda,,waffles
+rule207,0.073,0.516,1.302,laundry detergent, beef,,cereals
+rule209,0.073,0.516,1.302,tortillas, beef,,cereals
+rule511,0.078,0.509,1.302,butter, ice cream,,cheeses
+rule398,0.076,0.509,1.302,butter, spaghetti sauce,,cheeses
+rule497,0.078,0.509,1.302,fruits, sandwich bags,,cheeses
+rule370,0.076,0.509,1.302,paper towels, sandwich bags,,cheeses
+rule1035,0.085,0.505,1.302,lunch meat, cereals,,dishwashing liquid/detergent
+rule1142,0.088,0.508,1.302,milk, soda,,eggs
+rule922,0.083,0.519,1.302,lunch meat, aluminum foil,,ice cream
+rule499,0.078,0.514,1.302,butter, waffles,,lunch meat
+rule451,0.077,0.509,1.302,dishwashing liquid/detergent, sugar,,soda
+rule331,0.076,0.509,1.302,tortillas, soap,,soda
+rule1032,0.085,0.513,1.302,lunch meat, soap,,waffles
+rule314,0.075,0.515,1.301,fruits, individual meals,,cereals
+rule1169,0.089,0.515,1.301,mixes, aluminum foil,,cereals
+rule546,0.079,0.508,1.301,yogurt, sandwich bags,,cheeses
+rule182,0.072,0.506,1.301,aluminum foil, sugar,,dinner rolls
+rule405,0.076,0.506,1.301,pasta, sugar,,dinner rolls
+rule1097,0.086,0.519,1.301,paper towels, eggs,,ice cream
+rule656,0.080,0.514,1.301,spaghetti sauce, fruits,,lunch meat
+rule804,0.082,0.514,1.301,spaghetti sauce, ice cream,,lunch meat
+rule687,0.080,0.548,1.301,shampoo, dishwashing liquid/detergent,,poultry
+rule576,0.079,0.508,1.301,dinner rolls, bagels,,soda
+rule591,0.079,0.500,1.300,ice cream, sandwich loaves,,aluminum foil
+rule210,0.073,0.500,1.300,shampoo, dishwashing liquid/detergent,,aluminum foil
+rule1086,0.086,0.500,1.300,spaghetti sauce, juice,,aluminum foil
+rule713,0.081,0.500,1.300,yogurt, beef,,aluminum foil
+rule1007,0.084,0.508,1.300,butter, poultry,,cheeses
+rule1017,0.084,0.508,1.300,ice cream, cereals,,cheeses
+rule589,0.079,0.506,1.300,spaghetti sauce, aluminum foil,,dinner rolls
+rule833,0.082,0.505,1.300,spaghetti sauce, laundry detergent,,dinner rolls
+rule760,0.081,0.505,1.300,waffles, sugar,,dinner rolls
+rule868,0.083,0.514,1.300,waffles, cereals,,lunch meat
+rule350,0.076,0.548,1.300,hand soap, sugar,,poultry
+rule199,0.073,0.512,1.300,pasta, lunch meat,,waffles
+rule1187,0.090,0.513,1.300,soda, soap,,waffles
+rule319,0.076,0.500,1.300,all- purpose, cereals,,yogurt
+rule426,0.077,0.500,1.300,all- purpose, ketchup,,yogurt
+rule356,0.076,0.500,1.300,dinner rolls, sandwich bags,,yogurt
+rule361,0.076,0.500,1.300,dishwashing liquid/detergent, juice,,yogurt
+rule632,0.080,0.500,1.300,eggs, all- purpose,,yogurt
+rule782,0.082,0.500,1.300,eggs, beef,,yogurt
+rule986,0.084,0.500,1.300,eggs, milk,,yogurt
+rule725,0.081,0.500,1.300,fruits, cereals,,yogurt
+rule225,0.074,0.500,1.300,sandwich loaves, mixes,,yogurt
+rule834,0.082,0.505,1.300,pasta, waffles,,dinner rolls
+rule835,0.082,0.505,1.300,pasta, cereals,,dinner rolls
+rule1148,0.088,0.508,1.299,ice cream, waffles,,cheeses
+rule885,0.083,0.505,1.299,poultry, sandwich loaves,,dinner rolls
+rule1081,0.086,0.513,1.299,poultry, fruits,,lunch meat
+rule994,0.084,0.513,1.299,spaghetti sauce, waffles,,lunch meat
+rule766,0.081,0.548,1.299,shampoo, sugar,,poultry
+rule1116,0.087,0.508,1.299,dishwashing liquid/detergent, eggs,,soda
+rule806,0.082,0.514,1.298,eggs, lunch meat,,cereals
+rule838,0.082,0.514,1.298,milk, mixes,,cereals
+rule224,0.073,0.506,1.298,fruits, pasta,,eggs
+rule341,0.076,0.506,1.298,shampoo, milk,,eggs
+rule130,0.071,0.513,1.298,hand soap, individual meals,,lunch meat
+rule382,0.076,0.512,1.298,spaghetti sauce, all- purpose,,waffles
+rule150,0.071,0.500,1.297,aluminum foil, sugar,,bagels
+rule594,0.079,0.500,1.297,fruits, aluminum foil,,bagels
+rule308,0.075,0.500,1.297,pasta, toilet paper,,bagels
+rule62,0.066,0.500,1.297,pork, sugar,,bagels
+rule586,0.079,0.500,1.297,spaghetti sauce, beef,,bagels
+rule556,0.079,0.500,1.297,yogurt, individual meals,,bagels
+rule74,0.067,0.507,1.297,dishwashing liquid/detergent, sandwich loaves,,cheeses
+rule783,0.082,0.505,1.297,yogurt, beef,,eggs
+rule198,0.073,0.512,1.297,flour, individual meals,,lunch meat
+rule190,0.073,0.512,1.297,spaghetti sauce, pork,,lunch meat
+rule918,0.083,0.547,1.297,eggs, sugar,,poultry
+rule25,0.051,0.513,1.296,dinner rolls, spaghetti sauce, poultry,cereals
+rule1069,0.085,0.513,1.296,paper towels, eggs,,cereals
+rule179,0.072,0.506,1.296,sandwich loaves, beef,,cheeses
+rule380,0.076,0.503,1.296,all- purpose, mixes,,dishwashing liquid/detergent
+rule689,0.080,0.503,1.296,eggs, mixes,,dishwashing liquid/detergent
+rule302,0.075,0.503,1.296,fruits, soap,,dishwashing liquid/detergent
+rule467,0.077,0.503,1.296,ice cream, mixes,,dishwashing liquid/detergent
+rule496,0.078,0.503,1.296,mixes, sandwich bags,,dishwashing liquid/detergent
+rule1098,0.086,0.505,1.296,paper towels, ice cream,,eggs
+rule983,0.084,0.505,1.296,yogurt, dinner rolls,,eggs
+rule34,0.052,0.546,1.296,eggs, dinner rolls, soda,poultry
+rule976,0.083,0.511,1.296,eggs, toilet paper,,waffles
+rule277,0.075,0.506,1.295,pasta, sandwich bags,,cheeses
+rule301,0.075,0.506,1.295,sandwich loaves, mixes,,cheeses
+rule1060,0.085,0.503,1.295,eggs, waffles,,dishwashing liquid/detergent
+rule968,0.083,0.503,1.295,milk, laundry detergent,,dishwashing liquid/detergent
+rule124,0.070,0.516,1.295,fruits, juice,,ice cream
+rule373,0.076,0.512,1.295,dinner rolls, individual meals,,lunch meat
+rule376,0.076,0.512,1.295,waffles, tortillas,,lunch meat
+rule276,0.075,0.506,1.295,spaghetti sauce, sandwich bags,,soda
+rule1047,0.085,0.511,1.295,ice cream, soap,,waffles
+rule234,0.074,0.512,1.294,individual meals, sandwich bags,,cereals
+rule454,0.077,0.506,1.294,butter, mixes,,cheeses
+rule600,0.079,0.506,1.294,shampoo, mixes,,cheeses
+rule92,0.069,0.503,1.294,flour, juice,,dinner rolls
+rule77,0.068,0.503,1.294,shampoo, tortillas,,dinner rolls
+rule628,0.079,0.545,1.294,spaghetti sauce, sugar,,poultry
+rule575,0.079,0.506,1.294,dinner rolls, soap,,soda
+rule743,0.081,0.505,1.294,individual meals, soap,,soda
+rule815,0.082,0.505,1.294,spaghetti sauce, laundry detergent,,soda
+rule1161,0.089,0.510,1.294,dishwashing liquid/detergent, lunch meat,,waffles
+rule973,0.083,0.505,1.293,ice cream, fruits,,cheeses
+rule577,0.079,0.503,1.293,bagels, soda,,dinner rolls
+rule683,0.080,0.503,1.293,paper towels, poultry,,dinner rolls
+rule211,0.073,0.503,1.293,spaghetti sauce, hand soap,,dinner rolls
+rule802,0.082,0.511,1.293,individual meals, soap,,lunch meat
+rule1044,0.085,0.545,1.293,dinner rolls, soap,,poultry
+rule947,0.083,0.505,1.293,eggs, juice,,soda
+rule944,0.083,0.505,1.293,spaghetti sauce, cheeses,,soda
+rule1172,0.089,0.502,1.292,poultry, juice,,dinner rolls
+rule381,0.076,0.515,1.292,cheeses, all- purpose,,ice cream
+rule1211,0.090,0.515,1.292,poultry, aluminum foil,,ice cream
+rule993,0.084,0.511,1.292,dishwashing liquid/detergent, ice cream,,lunch meat
+rule726,0.081,0.511,1.291,yogurt, fruits,,cereals
+rule1125,0.087,0.544,1.291,laundry detergent, mixes,,poultry
+rule1019,0.084,0.511,1.290,ice cream, milk,,cereals
+rule515,0.078,0.503,1.290,beef, ketchup,,eggs
+rule751,0.081,0.503,1.290,milk, beef,,eggs
+rule255,0.074,0.503,1.290,pasta, mixes,,eggs
+rule1145,0.088,0.543,1.290,dinner rolls, ice cream,,poultry
+rule477,0.077,0.509,1.290,spaghetti sauce, toilet paper,,waffles
+rule987,0.084,0.503,1.289,yogurt, milk,,eggs
+rule913,0.083,0.543,1.289,dishwashing liquid/detergent, sugar,,poultry
+rule755,0.081,0.508,1.289,coffee/tea, aluminum foil,,waffles
+rule768,0.081,0.508,1.289,coffee/tea, soap,,waffles
+rule874,0.083,0.508,1.289,soda, sugar,,waffles
+rule860,0.083,0.508,1.289,yogurt, toilet paper,,waffles
+rule215,0.073,0.503,1.288,spaghetti sauce, coffee/tea,,cheeses
+rule195,0.073,0.503,1.288,toilet paper, sandwich bags,,cheeses
+rule1214,0.090,0.500,1.288,poultry, cereals,,dishwashing liquid/detergent
+rule554,0.079,0.500,1.288,yogurt, fruits,,dishwashing liquid/detergent
+rule142,0.071,0.503,1.288,paper towels, sugar,,soda
+rule1057,0.085,0.508,1.288,cheeses, toilet paper,,waffles
+rule274,0.075,0.503,1.287,coffee/tea, pork,,cheeses
+rule390,0.076,0.503,1.287,dishwashing liquid/detergent, flour,,cheeses
+rule323,0.076,0.503,1.287,pork, sandwich bags,,cheeses
+rule261,0.074,0.503,1.287,sandwich loaves, waffles,,cheeses
+rule793,0.082,0.503,1.287,soda, sandwich bags,,cheeses
+rule502,0.078,0.509,1.287,dishwashing liquid/detergent, coffee/tea,,lunch meat
+rule1021,0.084,0.542,1.287,cheeses, sandwich loaves,,poultry
+rule1195,0.090,0.543,1.287,dinner rolls, laundry detergent,,poultry
+rule1181,0.090,0.543,1.287,yogurt, mixes,,poultry
+rule288,0.075,0.503,1.287,hand soap, pasta,,soda
+rule393,0.076,0.503,1.287,spaghetti sauce, toilet paper,,soda
+rule744,0.081,0.503,1.287,spaghetti sauce, soap,,soda
+rule1061,0.085,0.503,1.286,cereals, coffee/tea,,cheeses
+rule1100,0.086,0.503,1.286,poultry, toilet paper,,cheeses
+rule169,0.072,0.500,1.286,flour, sugar,,dinner rolls
+rule202,0.073,0.500,1.286,flour, laundry detergent,,dinner rolls
+rule737,0.081,0.500,1.286,lunch meat, sugar,,dinner rolls
+rule1135,0.088,0.500,1.286,poultry, all- purpose,,dinner rolls
+rule126,0.071,0.500,1.286,spaghetti sauce, pork,,dinner rolls
+rule1089,0.086,0.500,1.286,spaghetti sauce, juice,,dinner rolls
+rule480,0.077,0.509,1.285,milk, coffee/tea,,cereals
+rule607,0.079,0.508,1.284,paper towels, shampoo,,cereals
+rule771,0.081,0.541,1.284,laundry detergent, sugar,,poultry
+rule840,0.082,0.508,1.283,cheeses, laundry detergent,,cereals
+rule1062,0.085,0.508,1.283,cheeses, coffee/tea,,cereals
+rule883,0.083,0.508,1.283,dinner rolls, mixes,,cereals
+rule1011,0.084,0.508,1.283,fruits, beef,,cereals
+rule826,0.082,0.508,1.283,milk, beef,,cereals
+rule118,0.070,0.500,1.283,butter, pasta,,eggs
+rule510,0.078,0.500,1.283,cereals, soda,,eggs
+rule598,0.079,0.500,1.283,dinner rolls, ketchup,,eggs
+rule421,0.076,0.500,1.283,dishwashing liquid/detergent, juice,,eggs
+rule818,0.082,0.500,1.283,laundry detergent, soda,,eggs
+rule538,0.078,0.500,1.283,milk, ketchup,,eggs
+rule769,0.081,0.500,1.283,milk, soap,,eggs
+rule252,0.074,0.500,1.283,mixes, soap,,eggs
+rule778,0.081,0.500,1.283,pasta, cereals,,eggs
+rule1166,0.089,0.500,1.283,waffles, soda,,eggs
+rule1073,0.086,0.500,1.283,yogurt, cheeses,,eggs
+rule529,0.078,0.511,1.283,cheeses, sugar,,ice cream
+rule679,0.080,0.511,1.283,spaghetti sauce, aluminum foil,,ice cream
+rule476,0.077,0.506,1.283,individual meals, toilet paper,,waffles
+rule617,0.079,0.506,1.283,juice, soap,,waffles
+rule367,0.076,0.506,1.283,sandwich bags, aluminum foil,,waffles
+rule824,0.082,0.511,1.282,beef, aluminum foil,,ice cream
+rule901,0.083,0.511,1.282,pasta, waffles,,ice cream
+rule1176,0.089,0.540,1.282,dinner rolls, sugar,,poultry
+rule996,0.084,0.505,1.282,lunch meat, coffee/tea,,waffles
+rule972,0.083,0.511,1.281,cheeses, fruits,,ice cream
+rule163,0.072,0.506,1.281,all- purpose, flour,,lunch meat
+rule280,0.075,0.506,1.281,butter, individual meals,,lunch meat
+rule949,0.083,0.540,1.281,dinner rolls, beef,,poultry
+rule1198,0.090,0.540,1.281,milk, laundry detergent,,poultry
+rule966,0.083,0.540,1.281,sugar, soap,,poultry
+rule449,0.077,0.500,1.280,dinner rolls, flour,,cheeses
+rule291,0.075,0.500,1.280,dishwashing liquid/detergent, butter,,cheeses
+rule257,0.074,0.500,1.280,ice cream, tortillas,,cheeses
+rule623,0.079,0.500,1.280,ice cream, sandwich loaves,,cheeses
+rule84,0.068,0.500,1.280,sandwich loaves, sugar,,cheeses
+rule715,0.081,0.500,1.280,yogurt, beef,,cheeses
+rule564,0.079,0.506,1.280,coffee/tea, juice,,lunch meat
+rule503,0.078,0.506,1.280,paper towels, individual meals,,lunch meat
+rule425,0.077,0.506,1.280,yogurt, tortillas,,lunch meat
+rule143,0.071,0.500,1.280,coffee/tea, sugar,,soda
+rule746,0.081,0.500,1.280,dishwashing liquid/detergent, pasta,,soda
+rule1139,0.088,0.500,1.280,dishwashing liquid/detergent, waffles,,soda
+rule817,0.082,0.500,1.280,eggs, laundry detergent,,soda
+rule76,0.068,0.500,1.280,flour, beef,,soda
+rule135,0.071,0.500,1.280,flour, individual meals,,soda
+rule162,0.072,0.500,1.280,individual meals, sandwich bags,,soda
+rule819,0.082,0.500,1.280,milk, toilet paper,,soda
+rule509,0.078,0.500,1.280,paper towels, waffles,,soda
+rule67,0.067,0.500,1.280,pasta, pork,,soda
+rule579,0.079,0.500,1.280,spaghetti sauce, milk,,soda
+rule666,0.080,0.500,1.280,spaghetti sauce, pasta,,soda
+rule1203,0.090,0.510,1.279,waffles, soda,,ice cream
+rule990,0.084,0.505,1.279,dishwashing liquid/detergent, soda,,lunch meat
+rule926,0.083,0.505,1.279,ice cream, coffee/tea,,lunch meat
+rule251,0.074,0.506,1.278,shampoo, dishwashing liquid/detergent,,cereals
+rule1160,0.089,0.505,1.278,dishwashing liquid/detergent, waffles,,lunch meat
+rule659,0.080,0.538,1.278,cheeses, all- purpose,,poultry
+rule1230,0.092,0.538,1.278,dinner rolls, cereals,,poultry
+rule700,0.080,0.538,1.278,fruits, soap,,poultry
+rule693,0.080,0.538,1.278,mixes, coffee/tea,,poultry
+rule750,0.081,0.505,1.277,cheeses, beef,,cereals
+rule570,0.079,0.506,1.277,paper towels, all- purpose,,cereals
+rule603,0.079,0.506,1.277,shampoo, mixes,,cereals
+rule256,0.074,0.509,1.277,cheeses, tortillas,,ice cream
+rule281,0.075,0.509,1.277,sandwich loaves, lunch meat,,ice cream
+rule83,0.068,0.503,1.277,fruits, juice,,waffles
+rule166,0.072,0.503,1.276,lunch meat, ketchup,,waffles
+rule888,0.083,0.505,1.276,cheeses, mixes,,cereals
+rule413,0.076,0.509,1.276,cheeses, juice,,ice cream
+rule622,0.079,0.508,1.276,cheeses, sandwich loaves,,ice cream
+rule6,0.050,0.538,1.276,yogurt, juice, aluminum foil,poultry
+rule335,0.076,0.503,1.276,dinner rolls, toilet paper,,waffles
+rule97,0.069,0.503,1.276,flour, juice,,waffles
+rule165,0.072,0.503,1.276,hand soap, lunch meat,,waffles
+rule269,0.075,0.503,1.276,pork, soda,,waffles
+rule652,0.080,0.508,1.275,laundry detergent, lunch meat,,ice cream
+rule774,0.081,0.508,1.275,paper towels, poultry,,ice cream
+rule974,0.083,0.508,1.275,paper towels, cereals,,ice cream
+rule1171,0.089,0.537,1.275,dishwashing liquid/detergent, dinner rolls,,poultry
+rule903,0.083,0.503,1.275,coffee/tea, ketchup,,waffles
+rule897,0.083,0.503,1.275,soap, ketchup,,waffles
+rule866,0.083,0.503,1.275,toilet paper, lunch meat,,waffles
+rule1147,0.088,0.508,1.274,cheeses, waffles,,ice cream
+rule75,0.068,0.503,1.274,shampoo, tortillas,,lunch meat
+rule111,0.070,0.503,1.274,shampoo, spaghetti sauce,,lunch meat
+rule956,0.083,0.537,1.274,dinner rolls, bagels,,poultry
+rule970,0.083,0.537,1.274,laundry detergent, juice,,poultry
+rule1164,0.089,0.508,1.273,soda, soap,,ice cream
+rule132,0.071,0.503,1.273,fruits, tortillas,,lunch meat
+rule164,0.072,0.503,1.273,hand soap, waffles,,lunch meat
+rule651,0.080,0.503,1.273,ice cream, laundry detergent,,lunch meat
+rule374,0.076,0.503,1.273,laundry detergent, individual meals,,lunch meat
+rule200,0.073,0.503,1.273,milk, individual meals,,lunch meat
+rule1000,0.084,0.503,1.272,dishwashing liquid/detergent, fruits,,lunch meat
+rule1034,0.085,0.503,1.272,dishwashing liquid/detergent, cereals,,lunch meat
+rule1108,0.087,0.503,1.272,ice cream, waffles,,lunch meat
+rule422,0.076,0.503,1.270,bagels, coffee/tea,,cereals
+rule206,0.073,0.503,1.270,beef, mixes,,cereals
+rule455,0.077,0.503,1.270,shampoo, beef,,cereals
+rule221,0.073,0.503,1.270,spaghetti sauce, coffee/tea,,cereals
+rule178,0.072,0.506,1.270,sandwich loaves, beef,,ice cream
+rule235,0.074,0.535,1.270,sandwich loaves, sandwich bags,,poultry
+rule414,0.076,0.506,1.269,pasta, milk,,ice cream
+rule66,0.066,0.500,1.268,dishwashing liquid/detergent, sandwich loaves,,waffles
+rule1109,0.087,0.500,1.268,ice cream, lunch meat,,waffles
+rule814,0.082,0.500,1.268,laundry detergent, soda,,waffles
+rule995,0.084,0.500,1.268,spaghetti sauce, lunch meat,,waffles
+rule530,0.078,0.500,1.268,toilet paper, coffee/tea,,waffles
+rule1224,0.091,0.505,1.267,poultry, cheeses,,ice cream
+rule440,0.077,0.500,1.266,butter, toilet paper,,lunch meat
+rule375,0.076,0.500,1.266,dishwashing liquid/detergent, toilet paper,,lunch meat
+rule377,0.076,0.500,1.266,dishwashing liquid/detergent, juice,,lunch meat
+rule327,0.076,0.500,1.266,flour, soap,,lunch meat
+rule112,0.070,0.500,1.266,milk, sugar,,lunch meat
+rule131,0.071,0.500,1.266,paper towels, tortillas,,lunch meat
+rule1183,0.090,0.500,1.266,poultry, sugar,,lunch meat
+rule279,0.075,0.500,1.266,spaghetti sauce, all- purpose,,lunch meat
+rule562,0.079,0.500,1.266,spaghetti sauce, individual meals,,lunch meat
+rule237,0.074,0.500,1.266,tortillas, sugar,,lunch meat
+rule1215,0.090,0.534,1.266,dishwashing liquid/detergent, cereals,,poultry
+rule989,0.084,0.533,1.266,milk, sandwich bags,,poultry
+rule1016,0.084,0.533,1.266,shampoo, cheeses,,poultry
+rule707,0.080,0.500,1.263,cheeses, pasta,,cereals
+rule884,0.083,0.500,1.263,dinner rolls, laundry detergent,,cereals
+rule930,0.083,0.500,1.263,lunch meat, coffee/tea,,cereals
+rule175,0.072,0.500,1.263,paper towels, butter,,cereals
+rule544,0.078,0.500,1.263,paper towels, spaghetti sauce,,cereals
+rule338,0.076,0.500,1.263,shampoo, soap,,cereals
+rule532,0.078,0.500,1.263,toilet paper, coffee/tea,,cereals
+rule716,0.081,0.500,1.263,yogurt, beef,,cereals
+rule1111,0.087,0.532,1.263,all- purpose, soap,,poultry
+rule123,0.070,0.503,1.262,paper towels, sandwich loaves,,ice cream
+rule153,0.071,0.503,1.262,paper towels, sugar,,ice cream
+rule213,0.073,0.503,1.262,sandwich loaves, bagels,,ice cream
+rule653,0.080,0.503,1.261,eggs, lunch meat,,ice cream
+rule1051,0.085,0.503,1.261,eggs, pasta,,ice cream
+rule754,0.081,0.503,1.261,milk, aluminum foil,,ice cream
+rule513,0.078,0.503,1.261,paper towels, beef,,ice cream
+rule641,0.080,0.503,1.261,sandwich bags, soap,,ice cream
+rule312,0.075,0.531,1.261,milk, sugar,,poultry
+rule837,0.082,0.531,1.261,shampoo, laundry detergent,,poultry
+rule862,0.083,0.531,1.260,mixes, sandwich bags,,poultry
+rule504,0.078,0.530,1.257,butter, all- purpose,,poultry
+rule526,0.078,0.530,1.257,mixes, juice,,poultry
+rule566,0.079,0.529,1.256,all- purpose, soda,,poultry
+rule597,0.079,0.529,1.256,dinner rolls, individual meals,,poultry
+rule614,0.079,0.529,1.256,individual meals, mixes,,poultry
+rule157,0.071,0.529,1.256,sandwich loaves, milk,,poultry
+rule710,0.080,0.529,1.255,bagels, sugar,,poultry
+rule731,0.081,0.529,1.255,dinner rolls, sandwich bags,,poultry
+rule1170,0.089,0.529,1.255,dinner rolls, cheeses,,poultry
+rule772,0.081,0.500,1.254,dishwashing liquid/detergent, pasta,,ice cream
+rule927,0.083,0.500,1.254,lunch meat, coffee/tea,,ice cream
+rule95,0.069,0.500,1.254,paper towels, flour,,ice cream
+rule704,0.080,0.500,1.254,sandwich loaves, individual meals,,ice cream
+rule742,0.081,0.500,1.254,soda, aluminum foil,,ice cream
+rule812,0.082,0.528,1.254,dinner rolls, flour,,poultry
+rule1193,0.090,0.528,1.254,shampoo, dinner rolls,,poultry
+rule900,0.083,0.528,1.253,juice, soap,,poultry
+rule1008,0.084,0.527,1.252,butter, cheeses,,poultry
+rule965,0.083,0.528,1.252,sandwich loaves, soap,,poultry
+rule1009,0.084,0.527,1.252,beef, aluminum foil,,poultry
+rule363,0.076,0.527,1.251,pork, soap,,poultry
+rule1239,0.095,0.527,1.250,dishwashing liquid/detergent, mixes,,poultry
+rule1082,0.086,0.527,1.250,fruits, lunch meat,,poultry
+rule543,0.078,0.527,1.250,individual meals, sugar,,poultry
+rule88,0.069,0.527,1.250,pork, sugar,,poultry
+rule443,0.077,0.527,1.250,sandwich loaves, lunch meat,,poultry
+rule605,0.079,0.526,1.249,shampoo, ice cream,,poultry
+rule1130,0.088,0.526,1.249,yogurt, dinner rolls,,poultry
+rule658,0.080,0.526,1.248,all- purpose, mixes,,poultry
+rule1206,0.090,0.526,1.247,mixes, aluminum foil,,poultry
+rule875,0.083,0.525,1.246,beef, toilet paper,,poultry
+rule1220,0.091,0.525,1.246,eggs, dinner rolls,,poultry
+rule296,0.075,0.525,1.245,aluminum foil, sugar,,poultry
+rule317,0.075,0.525,1.245,coffee/tea, sugar,,poultry
+rule999,0.084,0.525,1.245,milk, lunch meat,,poultry
+rule385,0.076,0.524,1.244,all- purpose, sugar,,poultry
+rule411,0.076,0.524,1.244,bagels, soap,,poultry
+rule394,0.076,0.524,1.244,shampoo, butter,,poultry
+rule462,0.077,0.524,1.243,dinner rolls, fruits,,poultry
+rule1131,0.088,0.524,1.242,yogurt, milk,,poultry
+rule636,0.080,0.523,1.241,dishwashing liquid/detergent, pork,,poultry
+rule125,0.070,0.523,1.241,eggs, sandwich loaves,,poultry
+rule847,0.082,0.522,1.240,cheeses, milk,,poultry
+rule855,0.082,0.522,1.240,coffee/tea, juice,,poultry
+rule864,0.083,0.522,1.239,cereals, sandwich bags,,poultry
+rule963,0.083,0.522,1.239,dishwashing liquid/detergent, soap,,poultry
+rule184,0.072,0.522,1.239,shampoo, hand soap,,poultry
+rule1049,0.085,0.522,1.237,dishwashing liquid/detergent, laundry detergent,,poultry
+rule1096,0.086,0.521,1.237,ice cream, milk,,poultry
+rule644,0.080,0.520,1.234,dishwashing liquid/detergent, sandwich bags,,poultry
+rule827,0.082,0.520,1.233,dishwashing liquid/detergent, beef,,poultry
+rule845,0.082,0.520,1.233,ice cream, sugar,,poultry
+rule803,0.082,0.520,1.233,laundry detergent, lunch meat,,poultry
+rule889,0.083,0.519,1.232,milk, mixes,,poultry
+rule1048,0.085,0.519,1.231,toilet paper, soap,,poultry
+rule286,0.075,0.518,1.230,flour, sugar,,poultry
+rule1084,0.086,0.519,1.230,fruits, beef,,poultry
+rule239,0.074,0.519,1.230,pasta, lunch meat,,poultry
+rule626,0.079,0.517,1.227,cheeses, sugar,,poultry
+rule694,0.080,0.517,1.227,laundry detergent, soap,,poultry
+rule865,0.083,0.516,1.226,all- purpose, lunch meat,,poultry
+rule932,0.083,0.516,1.225,lunch meat, juice,,poultry
+rule969,0.083,0.516,1.225,spaghetti sauce, laundry detergent,,poultry
+rule139,0.071,0.516,1.224,flour, juice,,poultry
+rule192,0.073,0.516,1.223,individual meals, pork,,poultry
+rule238,0.074,0.515,1.223,lunch meat, ketchup,,poultry
+rule1182,0.090,0.515,1.222,dishwashing liquid/detergent, lunch meat,,poultry
+rule316,0.075,0.515,1.222,sandwich loaves, juice,,poultry
+rule461,0.077,0.515,1.221,dinner rolls, toilet paper,,poultry
+rule572,0.079,0.514,1.220,all- purpose, juice,,poultry
+rule612,0.079,0.514,1.220,ice cream, mixes,,poultry
+rule684,0.080,0.514,1.220,paper towels, dinner rolls,,poultry
+rule711,0.080,0.514,1.220,pasta, coffee/tea,,poultry
+rule962,0.083,0.514,1.219,cheeses, soap,,poultry
+rule807,0.082,0.514,1.219,eggs, lunch meat,,poultry
+rule876,0.083,0.514,1.219,milk, beef,,poultry
+rule800,0.082,0.514,1.219,sandwich bags, soap,,poultry
+rule946,0.083,0.514,1.219,soda, sugar,,poultry
+rule899,0.083,0.514,1.219,spaghetti sauce, soap,,poultry
+rule788,0.082,0.514,1.219,yogurt, sugar,,poultry
+rule1101,0.086,0.513,1.218,cheeses, toilet paper,,poultry
+rule1041,0.085,0.513,1.218,dinner rolls, aluminum foil,,poultry
+rule1071,0.086,0.513,1.218,yogurt, all- purpose,,poultry
+rule1212,0.090,0.512,1.216,ice cream, aluminum foil,,poultry
+rule218,0.073,0.512,1.216,individual meals, ketchup,,poultry
+rule531,0.078,0.511,1.214,individual meals, toilet paper,,poultry
+rule494,0.078,0.511,1.214,lunch meat, sandwich bags,,poultry
+rule825,0.082,0.511,1.213,beef, soap,,poultry
+rule761,0.081,0.511,1.213,dinner rolls, tortillas,,poultry
+rule662,0.080,0.511,1.213,paper towels, all- purpose,,poultry
+rule801,0.082,0.511,1.213,shampoo, lunch meat,,poultry
+rule724,0.081,0.511,1.213,yogurt, dishwashing liquid/detergent,,poultry
+rule959,0.083,0.511,1.212,cheeses, mixes,,poultry
+rule1050,0.085,0.511,1.211,eggs, ice cream,,poultry
+rule1226,0.091,0.510,1.210,ice cream, cheeses,,poultry
+rule1177,0.089,0.510,1.210,milk, cereals,,poultry
+rule134,0.071,0.509,1.209,all- purpose, individual meals,,poultry
+rule144,0.071,0.509,1.209,butter, milk,,poultry
+rule156,0.071,0.509,1.209,hand soap, coffee/tea,,poultry
+rule283,0.075,0.509,1.208,all- purpose, coffee/tea,,poultry
+rule325,0.076,0.509,1.208,coffee/tea, pork,,poultry
+rule313,0.075,0.509,1.208,dishwashing liquid/detergent, spaghetti sauce,,poultry
+rule311,0.075,0.509,1.208,fruits, milk,,poultry
+rule270,0.075,0.509,1.208,pork, aluminum foil,,poultry
+rule260,0.074,0.509,1.208,spaghetti sauce, hand soap,,poultry
+rule587,0.079,0.508,1.207,beef, juice,,poultry
+rule453,0.077,0.509,1.207,butter, dinner rolls,,poultry
+rule450,0.077,0.509,1.207,flour, coffee/tea,,poultry
+rule471,0.077,0.509,1.207,hand soap, mixes,,poultry
+rule481,0.077,0.509,1.207,milk, coffee/tea,,poultry
+rule512,0.078,0.509,1.207,shampoo, beef,,poultry
+rule423,0.076,0.509,1.207,spaghetti sauce, sandwich loaves,,poultry
+rule581,0.079,0.508,1.207,tortillas, soda,,poultry
+rule898,0.083,0.508,1.206,cereals, soap,,poultry
+rule831,0.082,0.508,1.206,milk, aluminum foil,,poultry
+rule773,0.081,0.508,1.206,spaghetti sauce, ice cream,,poultry
+rule787,0.082,0.508,1.206,yogurt, coffee/tea,,poultry
+rule1063,0.085,0.508,1.205,cheeses, coffee/tea,,poultry
+rule1129,0.087,0.508,1.205,dishwashing liquid/detergent, eggs,,poultry
+rule1066,0.085,0.508,1.205,dishwashing liquid/detergent, fruits,,poultry
+rule60,0.065,0.507,1.203,fruits, pork,,poultry
+rule71,0.067,0.507,1.202,sandwich bags, sugar,,poultry
+rule168,0.072,0.506,1.201,all- purpose, flour,,poultry
+rule292,0.075,0.506,1.201,butter, juice,,poultry
+rule151,0.071,0.506,1.201,shampoo, fruits,,poultry
+rule650,0.080,0.506,1.200,beef, lunch meat,,poultry
+rule627,0.079,0.506,1.200,cereals, sugar,,poultry
+rule479,0.077,0.506,1.200,dishwashing liquid/detergent, toilet paper,,poultry
+rule343,0.076,0.506,1.200,fruits, mixes,,poultry
+rule604,0.079,0.506,1.200,shampoo, mixes,,poultry
+rule708,0.080,0.506,1.200,spaghetti sauce, individual meals,,poultry
+rule1102,0.086,0.505,1.199,dishwashing liquid/detergent, milk,,poultry
+rule735,0.081,0.505,1.199,lunch meat, soda,,poultry
+rule839,0.082,0.505,1.199,milk, soap,,poultry
+rule849,0.082,0.505,1.199,paper towels, milk,,poultry
+rule777,0.081,0.505,1.199,sandwich loaves, individual meals,,poultry
+rule1094,0.086,0.505,1.199,shampoo, juice,,poultry
+rule99,0.069,0.503,1.194,butter, sugar,,poultry
+rule176,0.072,0.503,1.194,butter, ketchup,,poultry
+rule236,0.074,0.503,1.194,juice, sandwich bags,,poultry
+rule122,0.070,0.503,1.194,shampoo, spaghetti sauce,,poultry
+rule333,0.076,0.503,1.193,butter, cereals,,poultry
+rule892,0.083,0.503,1.193,bagels, mixes,,poultry
+rule953,0.083,0.503,1.193,cereals, aluminum foil,,poultry
+rule542,0.078,0.503,1.193,dishwashing liquid/detergent, ketchup,,poultry
+rule709,0.080,0.503,1.193,eggs, tortillas,,poultry
+rule332,0.076,0.503,1.193,fruits, soda,,poultry
+rule701,0.080,0.503,1.193,ice cream, laundry detergent,,poultry
+rule412,0.076,0.503,1.193,laundry detergent, individual meals,,poultry
+rule736,0.081,0.503,1.193,lunch meat, aluminum foil,,poultry
+rule493,0.078,0.503,1.193,mixes, pork,,poultry
+rule485,0.077,0.503,1.193,paper towels, coffee/tea,,poultry
+rule674,0.080,0.503,1.193,shampoo, aluminum foil,,poultry
+rule867,0.083,0.503,1.193,toilet paper, lunch meat,,poultry
+rule304,0.075,0.503,1.193,tortillas, soap,,poultry
+rule552,0.079,0.503,1.193,yogurt, flour,,poultry
+rule1124,0.087,0.503,1.192,dinner rolls, pasta,,poultry
+rule1138,0.088,0.503,1.192,soda, soap,,poultry
+rule1156,0.089,0.502,1.192,yogurt, juice,,poultry
+rule1246,0.195,0.501,1.189,dinner rolls,,,poultry
+rule660,0.080,0.500,1.186,all- purpose, pasta,,poultry
+rule106,0.069,0.500,1.186,cheeses, hand soap,,poultry
+rule105,0.069,0.500,1.186,fruits, toilet paper,,poultry
+rule104,0.069,0.500,1.186,hand soap, toilet paper,,poultry
+rule107,0.069,0.500,1.186,hand soap, ketchup,,poultry
+rule960,0.083,0.500,1.186,ice cream, soap,,poultry
+rule268,0.075,0.500,1.186,lunch meat, pork,,poultry
+rule891,0.083,0.500,1.186,mixes, ketchup,,poultry
+rule68,0.067,0.500,1.186,pasta, pork,,poultry
+rule254,0.074,0.500,1.186,sandwich loaves, mixes,,poultry
+rule406,0.076,0.500,1.186,shampoo, coffee/tea,,poultry
+rule906,0.083,0.500,1.186,spaghetti sauce, cheeses,,poultry
+rule109,0.069,0.500,1.186,sugar, ketchup,,poultry
+rule231,0.074,0.500,1.186,tortillas, pork,,poultry
+rule484,0.077,0.500,1.186,tortillas, coffee/tea,,poultry
+rule706,0.080,0.500,1.186,waffles, sugar,,poultry
